@@ -36,7 +36,7 @@ public class GameOver implements Screen {
         batch = new SpriteBatch();
 		font = new BitmapFont();
         font.getData().setScale(2);
-        intro = new TextureRegion(new Texture(Gdx.files.internal("assets/images/GameOver.jpg")), 0, 0, 800, 600 );
+        intro = new TextureRegion(new Texture(Gdx.files.internal("GameOver.jpg")), 0, 0, 800, 600 );
     }
 
     @Override
