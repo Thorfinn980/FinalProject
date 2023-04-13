@@ -11,6 +11,9 @@ The goal of this project was to develop a platformer game that utilized the libG
 ## How to Install
 Download the file and run the .jar file or run through IDE with requirements.
 
+## How to Install Without the Requirements
+Use the command ./gradlew desktop:dist to deploy the applyication and run the jar file.
+
 ## How to Play
 Hypnotic Beef is a platformer game that features simple physics-based gameplay and some special abilities for the player character.
 The basic controls for the game are as follows:
