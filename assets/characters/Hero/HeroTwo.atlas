@@ -1,0 +1,83 @@
+
+HeroTwo.png
+size: 2048, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Idle Rig 48x48
+  rotate: false
+  xy: 532, 52
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+Player Hurt 48x48
+  rotate: false
+  xy: 1786, 52
+  size: 240, 48
+  orig: 240, 48
+  offset: 0, 0
+  index: -1
+Sprite-Sheet ATK Sword 48x64
+  rotate: false
+  xy: 1400, 52
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+Sprite-Sheet ATK Without Sword 48x48
+  rotate: false
+  xy: 1304, 2
+  size: 288, 48
+  orig: 288, 48
+  offset: 0, 0
+  index: -1
+Sprite-SwordSlash Draft 3
+  rotate: false
+  xy: 918, 2
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+Stab
+  rotate: false
+  xy: 2, 52
+  size: 528, 48
+  orig: 528, 48
+  offset: 0, 0
+  index: -1
+death
+  rotate: false
+  xy: 2, 2
+  size: 480, 48
+  orig: 480, 48
+  offset: 0, 0
+  index: -1
+jump 48x48
+  rotate: false
+  xy: 1740, 2
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
+landing 48x48
+  rotate: false
+  xy: 484, 2
+  size: 432, 48
+  orig: 432, 48
+  offset: 0, 0
+  index: -1
+run cycle 48x48
+  rotate: false
+  xy: 1014, 52
+  size: 384, 48
+  orig: 384, 48
+  offset: 0, 0
+  index: -1
+wall slide
+  rotate: false
+  xy: 1594, 2
+  size: 144, 48
+  orig: 144, 48
+  offset: 0, 0
+  index: -1
